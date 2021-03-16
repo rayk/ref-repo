@@ -1,0 +1,9 @@
+[submodule "ref-repo-gitflow"]
+	path = ref-repo-gitflow
+	url = https://github.com/rayk/ref-repo-gitflow
+[submodule "ref-repo-trunk"]
+	path = ref-repo-trunk
+	url = https://github.com/rayk/ref-repo-trunk
+[submodule "ref-repo-github-flow"]
+	path = ref-repo-github-flow
+	url = https://github.com/rayk/ref-repo-github-flow
